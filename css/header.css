@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+}
+
+.menu{
+    background-color: #e7c600;
+    display: flex;
+}
+
+
+li{
+    background-color: aliceblue;
+    border-right: solid;
+    width: 162px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    margin-left: 5%;
+}
+a:link {
+    color: #484848;
+}
+
+a:visited {
+     color: #484848;
+}
+
+a:hover {
+     color: #484848;
+}
+
+a:active {
+     color: #484848;
+}
+
